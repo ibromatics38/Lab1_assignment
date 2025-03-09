@@ -1,6 +1,6 @@
 # Lab1_assignment
 
-# 🔋 Voltage Source Converter (VSC) Modeling & Control | Renewable Energy Lab
+# 🔋  (VSC) Modeling & Control | Renewable Energy Lab
 
 ![MATLAB/Simulink](https://img.shields.io/badge/-MATLAB%2FSimulink-0076A8?logo=mathworks&logoColor=white)
 ![Power Systems](https://img.shields.io/badge/-Power%20Systems-FFD700)
